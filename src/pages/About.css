@@ -10,11 +10,12 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #aaddaa;
 }
 
 .right {
   right: 0;
+  background-color: #dddddd;
 }
 
 .centered {
@@ -37,6 +38,8 @@
 }
 
 .profile_image {
+  /* width: 20rem; */
   width: 500px;
   height: auto;
+  padding-top: 60px;
 }
